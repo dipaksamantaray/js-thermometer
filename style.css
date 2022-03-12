@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: black;
+}
+.outer {
+  color: white;
+}
+.inner {
+  justify-content: center;
+  margin-left: 50px;
+  width: 10px;
+}
+
+h1 {
+  float: left;
+  margin-left: 5s0px;
+  margin-top: 300px;
+  
+  font-size: 100px;
+}
+
+span {
+  font-size: 100px;
+  margin-left: 900px;
+  margin-top: -151px;
+}
